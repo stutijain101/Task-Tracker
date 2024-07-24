@@ -24,43 +24,40 @@ Install Visual Studio Code.
 
 
 
-![WhatsApp Image 2024-07-13 at 7 47 10 PM](https://github.com/user-attachments/assets/7285fbc2-61c0-46bd-a152-9f53898a8395)
+![image](https://github.com/user-attachments/assets/0f2b47ba-7e27-4212-9004-fa4a71b7ba62)
+
 
 
 #### Adding Tasks
 
 
-![WhatsApp Image 2024-07-13 at 7 49 25 PM](https://github.com/user-attachments/assets/a6b11c95-b0d0-46b9-b106-ce1bfbb96a7b)
+![image](https://github.com/user-attachments/assets/4f89168c-3fc2-420a-8fb0-0f9dcf5f1053)
 
 
-
-#### Tasks Added
-
-
-
-![WhatsApp Image 2024-07-13 at 7 50 03 PM](https://github.com/user-attachments/assets/dcb04f77-5c97-4e82-b48c-a48ba70d7346)
 
 
 
 #### Marking Tasks as completed indicating with strikethrough
 
-![WhatsApp Image 2024-07-13 at 7 50 27 PM](https://github.com/user-attachments/assets/4a5db31c-bde4-4c57-af00-eb94bdb2ae16)
+![image](https://github.com/user-attachments/assets/b2b80ed4-b297-4527-b01d-e576320f562a)
+
 
 #### Deleting Tasks
 
-![WhatsApp Image 2024-07-13 at 7 50 55 PM](https://github.com/user-attachments/assets/2b8ecb4d-8327-4826-be82-3dd3868dd731)
+![image](https://github.com/user-attachments/assets/5d1f2c75-dc0e-454b-9287-0cb59fba8512)
+
 
 #### Editing existing Tasks
 
-![WhatsApp Image 2024-07-13 at 7 52 23 PM](https://github.com/user-attachments/assets/f0219cbf-9be7-41a8-90ae-213507226f7b)
+![image](https://github.com/user-attachments/assets/7ecf0d56-2b6b-4b7e-99a2-c5205ed5884a)
 
 #### Task edited
 
-![WhatsApp Image 2024-07-13 at 7 51 39 PM](https://github.com/user-attachments/assets/aec19d4a-a8e3-4b07-a904-66a1885b2ad1)
+![image](https://github.com/user-attachments/assets/f59c0208-340d-473e-aea3-e362a47ab228)
 
 
 #### All tasks are deleted indicating that the To Do List in Complete
-![WhatsApp Image 2024-07-13 at 7 53 50 PM](https://github.com/user-attachments/assets/5ec2dc85-67e6-405a-a3d8-f871af5706ec)
+![image](https://github.com/user-attachments/assets/097c2d4e-2847-4ad6-ad75-7f79143468cf)
 
 
 
